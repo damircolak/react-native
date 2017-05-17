@@ -62,6 +62,6 @@ When setState is called, BlinkApp will re-render its Component. By calling setSt
 
 State works the same way as it does in React, so for more details on handling state, you can look at the [React.Component API](https://facebook.github.io/react/docs/component-api.html).
 
-This sample does not work on Android phones.
+Note: This sample does not work on Android phones.
 
 At this point, you might be annoyed that most of our examples so far use boring default black text. To make things more beautiful, you will have to [learn about Style](docs/style.html).
